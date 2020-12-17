@@ -17,6 +17,7 @@
               <slot name="footer">
                   <a href="#" class="button is-primary">Save changes</a>    
                   <a href="#" class="button" @click="closeModal">Cancel</a>
+                  
               </slot>
           </footer>
       </div>
